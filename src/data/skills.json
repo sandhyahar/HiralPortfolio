@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Iustrator",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "Photoshop",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Adobe XD",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Canva",
+    "imageSrc": "skills/graphql.png"
+  }
+]
