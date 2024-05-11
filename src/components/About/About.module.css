@@ -27,7 +27,18 @@
 
 .aboutImage {
   width: 35%;
+  animation: scaleAnimation 1s infinite alternate; /* Apply the animation */
 }
+
+@keyframes scaleAnimation {
+  0% {
+    transform: scale(1); /* Initial scale */
+  }
+  100% {
+    transform: scale(1.1); /* Scale to 1.1 times its original size */
+  }
+}
+
 
 .aboutItems {
   color: var(--color-text);
@@ -89,4 +100,14 @@
     padding-left: 0;
     padding-right: 0;
   }
+
+  .aboutItem h3 {
+    font-size: 25px;
+    font-weight: 600;
+  }
+  
+  .aboutItem p {
+    font-size: 20px;
+  }
+
 }

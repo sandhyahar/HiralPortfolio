@@ -2,7 +2,7 @@
   {
     "title": "2cube studio",
     "imageSrc": "projects/project.png",
-    "description": "UI/UX design project focused on 2cube studio visualization software, created using Figma and Photoshop. This project aimed to improve usability and efficiency for architects and designers.",
+    "description": "UI/UX design project focused on 2cube studio visualization software, created using Figma and Photoshop. This project aimed to improve usability and efficiency.",
     "skills": ["Figma", "Photoshop"]
   },
   {
@@ -22,7 +22,7 @@
   {
     "title": "Architecture",
     "imageSrc": "projects/project3.png",
-    "description": "UI/UX design project focused on architectural visualization software, created using Figma and Photoshop. This project aimed to improve usability and efficiency for architects and designers.",
+    "description": "UI/UX design project focused on architectural visualization software, created using Figma and Photoshop. This project aimed to improve usability and efficiency .",
     "skills": ["Figma", "Photoshop"]
   }
 ]

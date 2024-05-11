@@ -108,4 +108,21 @@
   .content {
     align-items: center;
   }
+
+  .title {
+    font-size: 50px;
+    
+  }
+
+  .contactBtn {
+    font-size: 20px;
+    font-weight: 600;
+    
+  }
+
+  .description {
+    font-size: 15px;
+    
+  }
+
 }

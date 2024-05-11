@@ -20,8 +20,15 @@
 }
 
 
+
+
 .menuBtn {
   display: none;
+}
+
+.menuItems a:hover {
+  color: lightblue;
+  font-size: 30px;
 }
 
 .menu {

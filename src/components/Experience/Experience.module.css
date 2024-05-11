@@ -36,6 +36,20 @@
   gap: 11px;
 }
 
+/* Define the animation */
+@keyframes enlargeAnimation {
+  0% {
+    transform: scale(1); /* Initial scale */
+  }
+  50% {
+    transform: scale(1.1); /* Scale to 1.1 times its original size */
+  }
+  100% {
+    transform: scale(1); /* Return to original size */
+  }
+}
+
+/* Apply the animation to the container */
 .skillImageContainer {
   background-color: var(--color-secondary);
   border-radius: 100%;
@@ -46,8 +60,18 @@
   height: 120px;
 }
 
+/* Apply the animation to the image */
 .skillImageContainer img {
   width: 75px;
+}
+
+/* Define hover effect */
+.skillImageContainer:hover {
+  animation: enlargeAnimation 1s ease; /* Apply the animation on hover */
+}
+
+.skillImageContainer:hover img {
+  animation: enlargeAnimation 1s ease; /* Apply the animation on hover */
 }
 
 .skill p {
@@ -117,4 +141,43 @@
     width: 100%;
     gap: 9px;
   }
+
+  /* Apply the animation to the container */
+.skillImageContainer {
+  background-color: var(--color-secondary);
+  border-radius: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 120px;
+  height: 120px;
+}
+
+/* Apply the animation to the image */
+.skillImageContainer img {
+  width: 75px;
+}
+
+/* Define hover effect */
+.skillImageContainer:hover {
+  animation: enlargeAnimation 1s ease; /* Apply the animation on hover */
+}
+
+.skillImageContainer:hover img {
+  animation: enlargeAnimation 1s ease; /* Apply the animation on hover */
+}
+
+.historyItemDetails ul {
+  margin-top: 6px;
+  list-style-position: inside;
+  font-size: 20px;
+  list-style-type: disc;
+  margin-left: 17px;
+}
+
+.historyItemDetails h3 {
+  font-size: 25px;
+  font-weight: 500;
+}
+
 }
