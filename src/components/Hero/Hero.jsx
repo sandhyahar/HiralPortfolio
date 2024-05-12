@@ -9,7 +9,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Mayuri</h1>
         <p className={styles.description}>
-          I'm a UI/UX Designer  with 1 years of experience.
+          I'm a Passionate UI/UX designer with 1 years of experience translating complex ideas into intuitive, user-friendly interfaces. Proficient in creating mockups to effectively communicate design concepts. Strong understanding of design principles, typography, color theory, and usability standards. 
         </p>
         <a href="https://drive.google.com/file/d/1HYlPw57XSYvOpc547FqBNRGhwokAYMmZ/view?usp=sharing" className={styles.contactBtn}>
           Reasume
