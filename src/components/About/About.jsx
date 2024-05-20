@@ -19,7 +19,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>UI/UX designer</h3>
               <p>
-              Hello there! I'm mayuri, a dedicated UI/UX designer with a passion for crafting efficient and scalable solutions. With 1 years of experience in the industry, I've had the opportunity to delve deep into the world of UI/UX Designer, mastering its intricacies and leveraging its power to build robust applications.My journey in UI/UX Designer began April 2023. Since then, I've been captivated by the endless possibilities that designerg offers, constantly seeking new challenges to expand my skills and knowledge base.
+              Hello there! I'm hiral, a dedicated UI/UX designer with a passion for crafting efficient and scalable solutions. With 1 years of experience in the industry, I've had the opportunity to delve deep into the world of UI/UX Designer, mastering its intricacies and leveraging its power to build robust applications.My journey in UI/UX Designer began April 2023. Since then, I've been captivated by the endless possibilities that designerg offers, constantly seeking new challenges to expand my skills and knowledge base.
               </p>
             </div>
           </li>

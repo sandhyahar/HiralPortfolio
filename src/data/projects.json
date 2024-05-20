@@ -1,27 +1,27 @@
 [
   {
-    "title": "2cube studio",
-    "imageSrc": "projects/project.png",
+    "title": "Travel.com",
+    "imageSrc": "projects/project1.png",
     "description": "UI/UX design project focused on 2cube studio visualization software, created using Figma and Photoshop. This project aimed to improve usability and efficiency.",
     "skills": ["Figma", "Photoshop"]
   },
   {
     "title": "Traveling",
-    "imageSrc": "projects/project1.png",
+    "imageSrc": "projects/project2.png",
     "description": "UI/UX design project developed using Figma and Photoshop. This project focused on creating a user-friendly experience for travelers, from itinerary planning to booking accommodations.",
     "skills": ["Figma", "Photoshop"]
     
   },
   {
     "title": "Shopify",
-    "imageSrc": "projects/project2.png",
+    "imageSrc": "projects/project3.png",
     "description": "UI/UX design project tailored for Shopify platforms using Figma and Photoshop. This project involved optimizing e-commerce experiences, from product browsing to checkout.",
     "skills": ["Figma", "Photoshop"]
     
   },
   {
-    "title": "Architecture",
-    "imageSrc": "projects/project3.png",
+    "title": "Dental Car",
+    "imageSrc": "projects/project4.png",
     "description": "UI/UX design project focused on architectural visualization software, created using Figma and Photoshop. This project aimed to improve usability and efficiency .",
     "skills": ["Figma", "Photoshop"]
   }
